@@ -11,7 +11,7 @@ const GetInTouch = () => {
         <div > <Image src={BG} alt="Image" width={120}  /> </div>
         <div className='flex flex-col w-auto gap-4 ml-20 '>
             <div className='font-bold text-2xl'>Get in Touch</div> 
-            <div>Have a question or a project in mind? I'd love to hear from you. Let's chat and make something amazing together.</div> 
+            <div>Have a question or a project in mind? I had love to hear from you. Lets chat and make something amazing together.</div> 
             <div className='flex flex-row gap-2 '>
                 <div> <Image src={Phn} alt="Image" width={16} /> </div>
                 <div> 0419300572 </div>

@@ -15,14 +15,14 @@ const Nav = () => {
               <div> Services </div>              
               <div> Portfolio </div>              
               <div> Blog </div>              
-              <div> <button className='bg-black text-white hover:bg-white hover:text-black py-2 px-5 ml-32 mr-14'> Let's talk </button> </div>              
+              <div> <button className='bg-black text-white hover:bg-white hover:text-black py-2 px-5 ml-32 mr-14'> Lets talk </button> </div>              
             </div>
             <div className='flex flex-row justify-between mr-10'> 
               <div className='mt-32 flex flex-col w-fit ml-20'>
                 <div> UX Designer </div>
-                <div className='text-3xl font-black mt-5'> Hi There, I'm </div>
+                <div className='text-3xl font-black mt-5'> Hi There, Im </div>
                 <div className='text-red-500 font-black text-3xl mt-3'> Muhammad Mounas Samim </div>
-                <div className='mt-4'> <p> Welcome to my portfolio of captivating digital experiences. Explore my work and let's create something extraordinary together</p></div>
+                <div className='mt-4'> <p> Welcome to my portfolio of captivating digital experiences. Explore my work and lets create something extraordinary together</p></div>
                 <div > 
                   <button className='bg-black hover:bg-white text-white hover:text-black py-1 px-10 mr-3 mt-7'>Hire me</button>
                   <button className='bg-black hover:bg-white text-white hover:text-black py-1 px-10 '>Portfolio</button>

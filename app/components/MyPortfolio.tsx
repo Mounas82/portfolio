@@ -13,7 +13,7 @@ const MyPortfolio = () => {
     <div className='flex flex-col '> 
         <div className='flex flex-col bg-[#ffd4d0] text-center gap-8 py-16 mt-16'>
             <div className='font-bold text-2xl'>My Portfolio</div>
-            <div className='mr-56 ml-56'> Explore my design services, from user interface and experience to prototyping and testing. Let's craft exceptional digital experiences together. </div>
+            <div className='mr-56 ml-56'> Explore my design services, from user interface and experience to prototyping and testing. Lets craft exceptional digital experiences together. </div>
         </div>
         <div className='flex flex-row flex-wrap justify-between gap-12 mr-20 ml-20 mt-10'>
             <div className='flex flex-col w-80 justify-center gap-4' >
